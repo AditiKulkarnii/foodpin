@@ -1,4 +1,4 @@
-## FoodMine : *Quick Food, Faster Delivery - End your craving!*
+## OrderBite : *Quick Food, Faster Delivery - End your craving!*
 
 
 ## 📑 Synopsis 
